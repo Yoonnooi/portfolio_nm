@@ -322,6 +322,10 @@ margin-bottom: 20px; /* 필요에 따라 여백 조정 */
 width: 100%;
 }
 
+.title, .name{
+    font-size: 20vw;
+}
+
     .list-part {
 margin: 0;
 padding: 15px;
@@ -376,7 +380,7 @@ color: white;
 border:  rgb(253, 184, 210) solid 2px;
 border-radius: 15px;
 z-index: 1;
-font-size: 30px;
+font-size: 7vw;
 padding: 10px;
 bottom:30%;
 }
@@ -388,7 +392,7 @@ cursor: pointer;
 
 .footer-title {
 position: absolute;
-font-size: 5em;
+font-size: 15vw;
 text-align: center;
 overflow: hidden;
 color: rgb(253, 184, 210);
