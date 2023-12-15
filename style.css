@@ -331,7 +331,7 @@ width: 100%;
     background-color: rgb(17, 63, 12);
 }
 .title, .name{
-    font-size: 14vw;
+    font-size: 16vw;
 }
 
     .list-part {
@@ -388,7 +388,7 @@ color: white;
 border:  rgb(253, 184, 210) solid 2px;
 border-radius: 15px;
 z-index: 1;
-font-size: 4vw;
+font-size: 5vw;
 padding: 10px;
 bottom:30%;
 }
@@ -400,7 +400,7 @@ cursor: pointer;
 
 .footer-title {
 position: absolute;
-font-size: 8vw;
+font-size: 9vw;
 text-align: center;
 overflow: hidden;
 color: rgb(253, 184, 210);
@@ -431,7 +431,7 @@ bottom: 0%;
 left: 50%;
 transform: translateX(-50%);
 color: white;
-font-size: 2vw;
+font-size: 3vw;
 padding: 20px;
 z-index: 1; /* 메일이 위에 나타나도록 z-index 설정 */
 }
