@@ -331,7 +331,7 @@ width: 100%;
     background-color: rgb(17, 63, 12);
 }
 .title, .name{
-    font-size: 10vw;
+    font-size: 14vw;
 }
 
     .list-part {
@@ -388,7 +388,7 @@ color: white;
 border:  rgb(253, 184, 210) solid 2px;
 border-radius: 15px;
 z-index: 1;
-font-size: 3vw;
+font-size: 4vw;
 padding: 10px;
 bottom:30%;
 }
@@ -407,7 +407,8 @@ color: rgb(253, 184, 210);
 top: 10%;
 z-index: 1; /* 제목이 위에 나타나도록 z-index 설정 */
 align-items: center;
-left: 0%;
+left: 50%;
+transform: translateX(-50%);
 margin: 0px;
 }
 
@@ -430,7 +431,7 @@ bottom: 0%;
 left: 50%;
 transform: translateX(-50%);
 color: white;
-font-size: 1vw;
+font-size: 2vw;
 padding: 20px;
 z-index: 1; /* 메일이 위에 나타나도록 z-index 설정 */
 }
