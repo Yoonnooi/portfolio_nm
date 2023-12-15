@@ -331,7 +331,7 @@ width: 100%;
     background-color: rgb(17, 63, 12);
 }
 .title, .name{
-    font-size: 20vw;
+    font-size: 22vw;
 }
 
     .list-part {
@@ -400,7 +400,7 @@ cursor: pointer;
 
 .footer-title {
 position: absolute;
-font-size: 9vw;
+font-size: 10vw;
 text-align: center;
 overflow: hidden;
 color: rgb(253, 184, 210);
